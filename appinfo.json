@@ -1,0 +1,180 @@
+{
+  "uuid": "62bde0eb-0628-4266-9ba0-c7e02ba2d517",
+  "shortName": "LemmingTime",
+  "longName": "LemmingTime",
+  "companyName": "lesliesbird",
+  "versionLabel": "1.2",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt", "chalk"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+              {
+              "menuIcon": true,
+              "type": "png",
+              "name": "IMAGE_MENU_ICON",
+              "file": "images/menu_icon.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_NUM_0",
+              "file": "images/0.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_NUM_1",
+              "file": "images/1.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_NUM_2",
+              "file": "images/2.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_NUM_3",
+              "file": "images/3.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_NUM_4",
+              "file": "images/4.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_NUM_5",
+              "file": "images/5.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_NUM_6",
+              "file": "images/6.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_NUM_7",
+              "file": "images/7.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_NUM_8",
+              "file": "images/8.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_NUM_9",
+              "file": "images/9.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_DAY_NAME_SUN",
+              "file": "images/Sun.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_DAY_NAME_MON",
+              "file": "images/Mon.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_DAY_NAME_TUE",
+              "file": "images/Tue.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_DAY_NAME_WED",
+              "file": "images/Wed.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_DAY_NAME_THU",
+              "file": "images/Thu.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_DAY_NAME_FRI",
+              "file": "images/Fri.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_DAY_NAME_SAT",
+              "file": "images/Sat.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_AM",
+              "file": "images/AM.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_PM",
+              "file": "images/PM.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_COLON",
+              "file": "images/colon.png"
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_SLASH",
+              "file": "images/slash.png"
+              },
+              {
+              "type": "raw",
+              "name": "IMAGE_WALK_RIGHT",
+              "file": "images/walk_right.png"
+              },
+              {
+              "type": "raw",
+              "name": "IMAGE_WALK_LEFT",
+              "file": "images/walk_left.png"
+              },
+              {
+              "type": "raw",
+              "name": "IMAGE_FALL_RIGHT",
+              "file": "images/fall_right.png"
+              },
+              {
+              "type": "raw",
+              "name": "IMAGE_FALL_LEFT",
+              "file": "images/fall_left.png"
+              },
+              {
+              "type": "raw",
+              "name": "GO_HOME",
+              "file": "images/home.png"
+              },
+              {
+              "type": "raw",
+              "name": "BLOCKER",
+              "file": "images/blocker.png"
+              },
+              {
+              "type": "raw",
+              "name": "DEATH",
+              "file": "images/death.png"
+              },
+              {
+              "type": "raw",
+              "name": "HOME_DRAGON",
+              "file": "images/home_dragon.png"
+              },
+              {
+              "type": "raw",
+              "name": "SPINNER",
+              "file": "images/spinner.png"
+              },
+              {
+              "type": "raw",
+              "name": "TRAPDOOR_1",
+              "file": "images/trapdoor1.png"
+              }
+      ]
+  }
+}
